@@ -1,2 +1,1 @@
-# knapsack
-knapsack problem glauco - mochila mochila
+# https://brilliant.org/wiki/backpack-problem/
